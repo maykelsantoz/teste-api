@@ -1,5 +1,13 @@
 # 🚀 Teste API
 
+Aplicação para consulta de eventos solares através da API DONKI da NASA.
+
+## Demonstração
+
+![Projeto](assets/preview.png)
+
+## Tecnologias
+
 Projeto de estudos desenvolvido para praticar:
 
 * Consumo de APIs REST
